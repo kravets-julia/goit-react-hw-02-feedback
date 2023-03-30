@@ -1,0 +1,17 @@
+.btn__box{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+}
+
+.btn{
+    padding: 5px;
+    width: 80px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn:focus,
+.btn:hover{
+    background-color: blue;
+    color: white;
+}

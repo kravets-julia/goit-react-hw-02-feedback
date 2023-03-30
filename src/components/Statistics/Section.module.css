@@ -1,0 +1,12 @@
+.section:not(:first-child){
+    margin-top: 50px;
+}
+
+.title{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.info{
+    margin-left: 10px;
+}
